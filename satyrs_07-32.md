@@ -4,7 +4,7 @@
 
 ---
 
-## 🇬🇧　原文　（原画像）
+## 🇬🇧　原文（原画像）
 
 <div align="center">
  <img src="bs07.png" width="500"><br>
