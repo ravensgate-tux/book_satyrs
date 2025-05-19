@@ -8,7 +8,7 @@
 
 A Book of Satyrs (1907) by Austin Osman Spare
 
-🖋️ Introduction (James Guthrie)
+Introduction (James Guthrie)
 
 The field of black and white art has been generously extended since that golden period in the "eighties" when Walker and Pinwell and Millais wrought their quiet designs, although their olden delicacy of interpretation (for us almost wholly in the hands of Clemence Housman) can still claim charms which our more facile method can never attain. For every such accomplished craft is the companion of an aristocracy of art, even if it is compelled to prayer and fasting before serving fittingly the high expression which is exhaustive of every resource; but it shares, on the other hand, with commoner orders of art its own eloquence and dignity. Thus all advantages we now possess of rapid, literal, and cheap reproduction open the way to an easier acceptance of art which is habited with more grace than profundity, more fancy than imagination, and inclines us to postpone indefinitely what is only acquired at more pain and cost.
 
@@ -28,7 +28,23 @@ In his art Spare continually achieves the unexpected; his pattern is always orig
 
 ### 🇯🇵 翻訳
 
+『半獣人たちの書』（1907年）
+オースティン・オズマン・スペア
+序文：ジェームズ・ガスリー
 
+ウォーカーやピンウェル、ミレイが静かで繊細なデザインを手がけた「80年代」の黄金時代以降、白黒アートの領域は大きく広がってきた。しかし当時の繊細な解釈の妙——現在ではほぼクレメンス・ハウスマンの手によってのみ保持されている——は、私たちの簡便な手法では到底及ばない魅力を今なお保っている。完成された職人芸とは、それがたとえ祈りや断食に等しい努力を要したとしても、芸術の貴族的な領域に属するものであり、同時により庶民的な芸術と、独自の雄弁さと威厳を共有するものでもある。今日私たちが手にする迅速・正確・廉価な複製技術は、深みよりも優雅さ、想像よりも空想を身にまとう作品を容易に受け入れさせ、より多くの労苦と代償によってのみ得られるものを、無限に先延ばしにする傾向を生み出している。
+
+こうした理由によって、今日の作品のなかに、より深い芸術的人格を感じさせる「遠いもの」「奇異なもの」「適応しがたいもの」が欠落していることが説明されるのかもしれない。大衆の関心が関わる場面では、自然淘汰に代わるある種の“導きの科学”が働いているかのようですらある。まるである金融家が、変わることのない需要をあらかじめ計算し、あらゆる自由な衝動を標準化された型にはめ込み、個々の運命すら調整してしまおうとしているかのように。そのような秩序の外においてのみ、芸術の自由な力は動く。一部は目的を定めきれぬまま宙をさまよい、地上的な重力に引かれて躊躇を重ねる。他方、スペアのように本質的に自立し、明確に自己を確立している者たちは、その方法論が科学的分析を誘うものであっても、そうした“整理された世界”にほとんど従うことはない。
+
+スペアの『地球の書』は、混沌とした原初の性質をもつ作品であり、強烈な芸術と、さらに強烈な構想力に満ちていた。あまりに巨大な主題ゆえに、それはスフィンクスの謎のように、断片のまま思考の混乱のなかに浮かび続けるしかないのかもしれない。しかし今回のシリーズは、物理的次元におけるローカルな寓話としてより限定された範囲に収まり、輪郭や構図の美しさによって視覚を刺激するだけでなく、実行的な配慮を超えて、芸術家の内面で拡がる目的へと向かって調整されている。芸術に「美への志向」だけを求める狭い了見からすれば、それは理解しがたい意図だろう。
+
+この書が「決して大衆的になり得ない」意味における大衆芸術とは、異常なまでのペシミズムから生まれてくる。それは環境や境遇に対する不健全なまでの迎合であり、その締め付けから解放される者は、知識によって裏打ちされた信念を身につけて、ようやくそこから脱することができる。スペアは、究極的な価値に対して揺るぎない確信をもつ楽天主義者として、柔弱で説教臭い者たちが泣き崩れるような場所にも、改革の意思をもって足を踏み入れる。彼の芸術は穏やかに前進する理論ではなく、彼の風刺——あるいは彼が好んで呼ぶところの“サティル（Satyrs）”——は、すでに完成された教義として出現する。
+
+これらの図像が私たちの想像力を刺激するのは、曖昧な形や謎めいた神秘性によってではなく、明瞭かつ精緻な描写によるものである。だがその描写は、心理的な意図に裏打ちされており、見慣れたものが異様なものや説明しがたいものの棲み処へと変わっていく。
+
+スペアの芸術には常に「予期せぬもの」がある。その構図は常に独創的であり、彼の描線は繊細で緊張感を孕み、彼の人物像は力強く視覚化されている。彼の気質に宿る繊細な皮肉は、身ぶりや態度、表情など、百通りもの奇抜なかたちで表出し、それらはあまりにも精妙で、全体の印象にほのかに香る程度に留まっている。この適切な皮肉こそが、スペアを風刺作家として真にふさわしい存在にしている。それは無視することも、忘れることもできない。——そしてこれこそ、熱意が抑制され、礼儀作法ばかりが幅をきかせるこの時代において、ただ一人の風刺家について記すにふさわしい言葉である。
+
+――ジェームズ・ガスリー
 
 ---
 
