@@ -7,10 +7,10 @@
 ## 🇬🇧　原文
 
 <div align="center">
- <img src="bs01.png" width="300">
- <img src="bs02.png" width="300">
- <img src="bs03.png" width="300">
- <img src="bs04.png" width="300">
+ <img src="bs01.png" width="500"><br>
+ <img src="bs02.png" width="500"><br>
+ <img src="bs03.png" width="500"><br>
+ <img src="bs04.png" width="500"><br>
 </div>
 
 ---
