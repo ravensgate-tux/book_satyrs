@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
- <img src="book_satyrs_1.png" width="300">
+ <img src="book_satyrs_1.png" width="400">
 </div>
 
 ---
@@ -19,7 +19,7 @@
 
 ### 🇬🇧 原文
 
-👉 [Amazon.co.jp](https://www.amazon.co.jp/Anathema-Of-Zos/dp/B0013KXHXSd)
+👉 [クリックして読む](AustinOsmanSpare-ABookOfSatyrs-ocr.pdf)
 
 ---
 
