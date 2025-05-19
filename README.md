@@ -12,14 +12,13 @@
 
 ### 🇯🇵 日本語
 
-
-👉 [クリックして読む](Anathema_of_Zos_J.md)
+👉 [ページ 01〜02（絵画のみ）](satyrs_01-04.md)
 
 ---
 
 ### 🇬🇧 原文
 
-👉 [ページ 01〜02（絵画のみ）](satyrs_01-04.md)
+👉 [クリックして読む](AustinOsmanSpare-ABookOfSatyrs-ocr.pdf)
 
 ---
 
