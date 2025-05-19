@@ -7,8 +7,8 @@
 ## 🇬🇧　原文
 
 <div align="center">
- <img src="bs05.png" width="500"><br>
- <img src="bs06.png" width="500"><br>
+ <img src="bs05.png" width="700"><br>
+ <img src="bs06.png" width="700"><br>
 </div>
 
 ---
