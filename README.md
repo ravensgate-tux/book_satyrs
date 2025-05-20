@@ -43,6 +43,7 @@
 <br>
 👉👉👉 [『ゾスの呪詛――偽善者たちへの説教 (Anathema of Zos)』を読む](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 <br>
+<br>
 👉[『地上の地獄（🇬🇧英文）』](37355088-Austin-Osman-Spare-Earth-Inferno-1905-ocr.pdf)　🇯🇵[テキスト部分の要約](earth_inferno_summary.md)
 <br>
 <br>
