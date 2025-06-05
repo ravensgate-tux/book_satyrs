@@ -37,20 +37,12 @@
 🗃 関連資料
 
 その他のオースティン・オスマン・スペアによる文書の翻訳Zineも公開中。
-<br>
-<br>
-👉👉👉 [『快楽の書』(The Book of Pleasure)』を読む](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)<br>
-<br>
-👉👉👉 [『ゾスの呪詛――偽善者たちへの説教 (Anathema of Zos)』を読む](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
-<br>
-<br>
-👉👉👉[『地上の地獄（Earth Inferno)』を読む](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
-<br>
-<br>
-📚『地上の地獄（Earth Inferno, 1905）』について<br>
-『地上の地獄』は、オースティン・オスマン・スペアが20歳で自費出版した最初の著作であり、詩と図像が交錯する幻想的なアートブックである。ダンテ『神曲』に着想を得つつも、内容はスペア独自の魔術思想に満ちており、道徳や宗教への挑発と内的探求が、ページごとに濃密に展開される。視覚と言葉を通じた魔術的実践の先駆的表現といえるだろう。
 
-本書では後年の主要概念「ZOS-KIA」ではなく、より原初的なかたちとして「ZOD-KIA」という語が用いられており、信仰・死・苦悩による支配的構造を象徴していると読み取れる。この「ZOD-KIA」は、後のスペアが構想した能動的・創造的統合体「ZOS-KIA」へと至る前段階として重要な概念であり、思想の進化を読み解く鍵ともなる。
+- 🎨 [『地上の地獄(1905年)』翻訳Zine](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
+- 🎨 [『半獣神たちの書 (1907年)』翻訳Zine](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
+- 🎨 [『快楽の書 (1913年)』の翻訳＋注釈Zine──ZOS/KIAと魔術の原点](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
+- 🎨 [『生命の焦点(1921年)』翻訳Zine](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
+- 🎨 [『ゾスの呪詛 (1927年)――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
 
 ---
 
