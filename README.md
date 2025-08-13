@@ -1,6 +1,6 @@
 # オースティン・オスマン・スペアの『半獣神たちの書(A book of Satyes)』翻訳Zine
 
-本Zineは、オースティン・オスマン・スペアによる初期作品『A Book of Satyrs』（1907年刊）を翻訳・紹介するものです。
+本Zineは、オースティン・オスマン・スペアによる初期作品『A Book of Satyrs』（1909年刊）を翻訳・紹介するものです。
 本書は、彼の魔術思想が具現化する以前の、風刺・幻想・退廃的な美術の側面が強く現れた作品集であり、アール・ヌーヴォーと耽美主義の影響を受けたグロテスクな挿絵が並びます。
 日本語訳では、画家であり魔術師であったスペアの文脈をふまえつつ、現代的な視点から再評価を試みています。
 
@@ -39,7 +39,7 @@
 その他のオースティン・オスマン・スペアによる文書の翻訳Zineも公開中。
 
 - 🎨 [『地上の地獄(1905年)』翻訳Zine](https://github.com/ravensgate-tux/earth_inferno/blob/main/README.md)
-- 🎨 [『半獣神たちの書 (1907年)』翻訳Zine](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
+- 🎨 [『半獣神たちの書 (1909年)』翻訳Zine](https://github.com/ravensgate-tux/book_satyrs/blob/main/README.md)
 - 🎨 [『快楽の書 (1913年)』の翻訳＋注釈Zine──ZOS/KIAと魔術の原点](https://github.com/ravensgate-tux/book_of_pleasure/blob/main/README.md)
 - 🎨 [『生命の焦点(1921年)』翻訳Zine](https://github.com/ravensgate-tux/focus-of-life/blob/main/README.md)
 - 🎨 [『ゾスの呪詛 (1927年)――偽善者たちへの説教』翻訳Zine](https://github.com/ravensgate-tux/Anathema_of_Zos/blob/main/README.md)
